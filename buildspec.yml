@@ -15,7 +15,7 @@ phases:
 artifacts:
   files:
     - web.py
-    - appspec.yaml
+    - appspec.yml
     - templates/layout.html
     - templates/test.html
     - scripts/mkdir.sh
