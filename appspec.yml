@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: /templates/layout.html
+  - source: /
     destination: /war/www/html/
 hooks:
   AfterInstall:
